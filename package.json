@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cs-1171",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheemnawal/devops-midterm-23-ntu-cs-1171.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheemnawal/devops-midterm-23-ntu-cs-1171/issues"
+  },
+  "homepage": "https://github.com/maheemnawal/devops-midterm-23-ntu-cs-1171#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
